@@ -1,0 +1,23 @@
+.estilo{
+    background-color: #4b3675;
+    border-radius: 15px;
+}
+
+.imagem{
+    text-align: center;
+    background-color: #4b3675;
+    border-radius: 15px;
+    width: auto;
+    height: 500px;
+}
+
+img{
+width: 399px;
+height: auto;
+}
+
+.cor{
+    background-color: #4b3675;
+    border-radius: 15px; 
+}
+
